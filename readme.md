@@ -1,3 +1,3 @@
 ## Hello, Git!
 
-- I'm adding this from `font-branch`
+- I'm adding this from `feature-branch`
